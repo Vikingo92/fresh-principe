@@ -1,0 +1,55 @@
+{
+    "productos": [ 
+        {
+            "id": 1,
+            "nombre": "crown Sweatshirt",
+            "description": "Pantalon para hombre de tiro medio y silueta slim fit confeccionado en tela de dril. En la parte delantera presenta cierre de cremallera, bolsillos de bocas diagonales con relojero de ribete acompañados de vivos en tono de contraste.",
+            "precio": "150",
+            "talla": ["S", "M", "L", "XL", "XXL"],
+            "image": {
+                "url1": "../Image/ImagesProducts/Rectangle 1.png",
+                "url2": "../Image/ImagesProducts/Rectangle 2.png",
+                "url3": "../Image/ImagesProducts/Rectangle 3.png",
+                "url4": "../Image/ImagesProducts/Rectangle 4.png"
+            }
+        },
+        {
+            "id": 2,
+            "nombre": "Fresh Stripe Sweater",
+            "description": "En la parte delantera presenta cierre de cremallera y bolsillos de bocas con relojero y cierre de cremallera. En la parte trasera cuenta con bolsillos de parche. ",
+            "precio": "150",
+            "talla": ["S", "M", "L", "XL", "XXL"],
+            "image": {
+                "url1": "../Image/ImagesProducts/Frame 14.png",
+                "url2": "../Image/ImagesProducts/Frame 15.png",
+                "url3": "../Image/ImagesProducts/Frame 16.png"
+            }
+        },
+        {
+            "id": 3,
+            "nombre": "Fresh Black Tie-Dye Hoodie",
+            "description": "Sudadera básica con capucha disponible en varios tonos, de manga larga, con bolsillo delantero tipo canguro, detalle de etiqueta en el bajo y confeccionada en mezcla de algodón",
+            "precio": "150",
+            "talla": ["S", "M", "L", "XL", "XXL"],
+            "image": {
+                "url1": "../Image/ImagesProducts/Frame 17.png",
+                "url2": "../Image/ImagesProducts/Frame 18.png",
+                "url3": "../Image/ImagesProducts/Frame 19.png"
+            }
+        },
+        {
+            "id": 4,
+            "nombre": "Pose For it Tee",
+            "description": "Camiseta blanca con ilustración STWD y texto en contraste, de manga corta, con cuello redondo y en algodón.",
+            "precio": "150",
+            "talla": ["S", "M", "L", "XL", "XXL"],
+            "image": {
+                "url1": "../Image/ImagesProducts/Frame 21.png",
+                "url2": "../Image/ImagesProducts/Frame 22.png",
+                "url3": "../Image/ImagesProducts/Frame 20.png"
+            }
+        }
+ 
+       
+    ]
+}

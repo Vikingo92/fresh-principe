@@ -1,0 +1,43 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "crown Sweatshirt",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur maxime dignissimos aperiam quo aliquid laboresit ut temporibus nemo corrupti quibusdam ipsum magnam possimus",
+            "precio": "500",
+            "talla": ["S", "M", "L", "XL", "XXL"],
+            "image": {
+                "url1": "./images/Frame 14.png",
+                "url2": "./images/Frame 15.png",
+                "url3": "./images/Frame 16.png"
+            }
+
+        },
+        {
+            "id": 2,
+            "nombre": "crown Sweatshirt",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur maxime dignissimos aperiam quo aliquid laboresit ut temporibus nemo corrupti quibusdam ipsum magnam possimus",
+            "precio": "500",
+            "talla": ["S", "M", "L", "XL", "XXL"],
+            "image": {
+                "url1": "./images/Frame 17.png",
+                "url2": "./images/Frame 18.png",
+                "url3": "./images/Frame 19.png"
+            }
+
+        },
+        {
+            "id": 3,
+            "nombre": "crown Sweatshirt",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur maxime dignissimos aperiam quo aliquid laboresit ut temporibus nemo corrupti quibusdam ipsum magnam possimus",
+            "precio": "500",
+            "talla": ["S", "M", "L", "XL", "XXL"],
+            "image": {
+                "url1": "./images/Frame 20.png",
+                "url2": "./images/Frame 21.png",
+                "url3": "./images/Frame 22.png"
+            }
+
+        }    
+    ]
+}

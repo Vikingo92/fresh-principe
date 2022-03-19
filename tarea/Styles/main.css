@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    padding: 1rem 0;
+
+}
+
+.header-container {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    width: 120px;
+    height: auto;
+}
+
+ .icon  {
+    width: 20px;
+    height: 20px;
+}
+.nav a {
+    margin: 0 .8rem;
+}
+
+footer {
+    width: 100%;
+}
+
+.footer-container {
+    width: 100%;
+    padding: 1rem 0;
+    background-color: #333;
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./Image/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="./Styles/styles.css">
+    <title>The Fresh Prince</title>
+</head>
+
+<body>
+    <header id="header">
+        <div class="container header_container">
+            <div class="container_nombre">
+                <img src="./Image/logo.png" width="150px" alt="logo">
+            </div>
+            <div class="contianer_bar">
+                <button>
+                    <i class="fa-solid fa-bars"></i>
+                </button>
+            </div>
+            <div class="container_categorias">
+                <a id="tiendaBtn" href="#">SHOP</a>
+                <a id="coleccionBtn" href="#">COLLECTIONS</a>
+            </div>
+            <div class="container_icons">
+                <a href="form.html">
+                    <i class="fa-solid fa-user"></i>
+                </a>
+                <a href="">
+                    <i class="fa-solid fa-bag-shopping"></i>
+                </a>
+            </div>
+        </div>
+    </header>
+
+       <!-- Modal -->
+       <div class="modal">
+        <section id="container_modal">
+            
+        </section>   
+    </div>
+    <main class="container2">
+        <div class="container_cards" id="containerCard">
+
+        </div>
+    </main>
+    <footer class="footer_container">
+        <div class="headerFooter">
+            <div class="container_cover">
+                <img src="./Image/cover.png" alt="cover">
+            </div>
+        </div>
+        <div class="bodyFooter">
+            <div class="logo">
+                <img src="./Image/logo.png" width="150px" alt="logo">
+            </div>
+            <div class="redesSociales">
+                <i class="fa-brands fa-facebook"></i>
+                <i class="fa-brands fa-youtube"></i>
+            </div>
+        </div>
+    </footer>
+    <!-- templates -->
+    <template id="template-card">
+        <div class="itemCard">
+            <div class="container_head">
+                <img class="imgProducto" src="./Image/ImagesProducts/Frame 16.png" width="200px" alt="producto">
+            </div>
+            <div class="container_body">
+                <h2 class="nombre">Nombre Prenda</h2>
+                <p class="description">Lorem ipsum dolor sit.</p>
+                <p class="precio"><span>500.00</span></p>
+            </div>
+        </div>
+    </template>
+    <script src="https://kit.fontawesome.com/43b21b3606.js" crossorigin="anonymous"></script>
+    <script src="./Scripts/script.js"></script>
+</body>
+
+</html>
